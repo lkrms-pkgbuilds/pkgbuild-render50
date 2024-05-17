@@ -1,7 +1,7 @@
 # Maintainer: Luke Arms <luke@arms.to>
 pkgname=render50
 pkgver=9.2.7
-pkgrel=1
+pkgrel=2
 pkgdesc="Generate syntax-highlighted PDFs of source code"
 arch=('any')
 url="https://github.com/cs50/render50"

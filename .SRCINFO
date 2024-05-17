@@ -1,7 +1,7 @@
 pkgbase = render50
 	pkgdesc = Generate syntax-highlighted PDFs of source code
 	pkgver = 9.2.7
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/cs50/render50
 	arch = any
 	license = GPL3
